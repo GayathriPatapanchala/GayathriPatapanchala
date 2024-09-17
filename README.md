@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GayathriPatapanchala
 - 👀 I’m interested in java coding and web designing.
-- 🌱 I’m currently learning java fullstack.
+- 🌱 I have done with java fullstack course.
 - 💞️ I’m looking to collaborate on work with an organigation
 - 📫 How to reach me ...
 
